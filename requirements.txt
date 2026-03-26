@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+numpy
+nltk
+matplotlib
+seaborn
+requests
+joblib
